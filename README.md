@@ -1,4 +1,4 @@
-# Stat 331 Portfolio
+# SQL Example Portfolio
 
 This repository contains information on an example of some of my work in SQL. Please refer to the TABLE OF CONTENTS for information on how to navegate to specific files. 
 
