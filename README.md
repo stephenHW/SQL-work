@@ -4,12 +4,12 @@ Here is an example of various SQL scrips that contain commands that I wrote in t
 
 ## Table of Contents
 
-- [Basic SQL Commands](#Basic SQL Commands)
+- [Basic_SQL_Commands](#Basic_SQL_Commands)
 - [Relational Databases and Commands](#Relational Databases and Commands)
 - [Advanced SQL Commands](#Advanced SQL Commands)
 - [Working with Real World Data Sets](#Working with Real World Data Sets)
 
-## Basic SQL Commands
+## Basic_SQL_Commands
 * SELECT_Statement
 * COUNT_DISTINCT_LIMIT
 * UPDATE_and_DELETE
