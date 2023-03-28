@@ -13,7 +13,6 @@ Here is an example of various SQL scrips that contain commands that I wrote in t
 
 * SELECT_Statement
 * COUNT_DISTINCT_LIMIT
-* UPDATE_and_DELETE
 
 ## Relational_Databases_and_Commands
 
