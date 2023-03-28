@@ -1,40 +1,31 @@
-# SQL Example Portfolio
+Project Name: Todo List
+A simple web application to manage your daily tasks.
 
-This repository contains information on an example of some of my work in SQL. Please refer to the TABLE OF CONTENTS for information on how to navegate to specific files. 
+Table of Contents
+Installation
+Usage
+Contributing
+License
+Installation
+To install this application, follow these steps:
 
-# Table of Contents 
+Clone the repository: git clone https://github.com/example/todo-list.git
+Install the dependencies: npm install
+Start the application: npm start
+Usage
+Once the application is installed, you can access it at http://localhost:3000.
 
-## Final Grade Reflection
+You can add a new task by typing it in the input field and clicking the "Add" button. To mark a task as completed, click the checkbox next to it. To delete a task, click the "X" button next to it.
 
-#### Demonstration of Learning Targets
+Contributing
+To contribute to this project, follow these steps:
 
-#### Demonstration of Continued Learning
+Fork the repository
+Create a new branch: git checkout -b feature/your-feature-name
+Make your changes and commit them: git commit -m 'Add some feature'
+Push to the branch: git push origin feature/your-feature-name
+Create a pull request
+Please make sure to follow the code style and include tests for your changes.
 
-#### Revising My Thinking
-
-#### Extending My Thinking
-
-#### Growth as a Team Member
-
-## Essay Responses
-
-* Growth as a Data Scientist
-* Power of Efficiency
-* Lightning Round
-
-## Supporting Artifacts 
-
-1. Data Import Practice
-2. Practice Activity 4
-3. Lab 3
-4. Challenge 3
-5. Lab 7
-6. Lab 4 
-7. Challenge 4
-8. Lab 5
-9. Challenge 2
-10. Lab 2
-11. Challenge 4
-12. Challenge 9
-13. Practice Activity 9
-14. Lab 9
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
