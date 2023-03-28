@@ -5,20 +5,22 @@ Here is an example of various SQL scrips that contain commands that I wrote in t
 ## Table of Contents
 
 - [Basic_SQL_Commands](#Basic_SQL_Commands)
-- [Relational Databases and Commands](#Relational Databases and Commands)
-- [Advanced SQL Commands](#Advanced SQL Commands)
-- [Working with Real World Data Sets](#Working with Real World Data Sets)
+- [Relational_Databases_and_Commands](#Relational_Databases_and_Commands)
+- [Advanced_SQL_Commands](#Advanced_SQL_Commands)
+- [Working_with_Real_World_Data_Sets](#Working_with_Real_World_Data_Sets)
 
 ## Basic_SQL_Commands
+
 * SELECT_Statement
 * COUNT_DISTINCT_LIMIT
 * UPDATE_and_DELETE
 
-## Relational Databases and Commands
+## Relational_Databases_and_Commands
+
 * PETRESCUE_CREATE
 * CREATE_ALTER_TRUNCATE_DROP
 
-## Advanced SQL Commands
+## Advanced_SQL_Commands
 
 * HR_Database_Create_Tables
 * Strings_Patterns_Sorting_Grouping
@@ -26,7 +28,7 @@ Here is an example of various SQL scrips that contain commands that I wrote in t
 * Sub-queries_and_Nested_SELECTs
 * Working_with_Multiple_Tables
 
-## Working with Real World Data Sets
+## Working_with_Real_World_Data_Sets
 
 * Working_With_Real_World_Data_Sets
 * Exploratory_Data_Analysis_with_SQL
